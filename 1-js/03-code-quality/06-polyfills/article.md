@@ -51,4 +51,4 @@ Przykłady korzystające z nowoczesnego JS będą działać tylko wtedy, gdy prz
 Ponieważ czytasz wersję offline, w PDF przykłady nie są uruchamialne. W EPUB niektóre z nich można uruchomić.
 ```
 
-Google Chrome jest zwykle najbardziej aktualną przeglądarką z funkcjonalnościami języka, dobrą do uruchamiania najnowocześniejszych wersji demonstracyjnych bez żadnych transpilatorów, ale inne nowoczesne przeglądarki również działają dobrze.
+Google Chrome jest zwykle najbardziej aktualną przeglądarką z funkcjonalnościami języka, dobrą do uruchamiania najnowocześniejszych stron demonstracyjnych bez żadnych transpilatorów, ale inne nowoczesne przeglądarki również działają dobrze.
